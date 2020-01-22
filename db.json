@@ -1,0 +1,66 @@
+	{
+  
+    "frameworks":[
+						{
+							"tipo":"front",
+							"nombre": "Boostrap",
+							"lanzamiento": 2011,
+							"compatibilidad":["Ultimas versiones de Firefox", "Chrome", "Safari", "IE810-11-Microsoft Edge"]
+
+						},
+						{
+							"tipo":"front",
+							"nombre": "Foundation",
+							"lanzamiento": 2011,
+							"compatibilidad":["Chrome", "Firefox", "Safari", "IE9 +", "iOS", "Android", "Windows Phone 7+"]
+						},
+						{
+							"tipo":"front",
+							"nombre": "IUSemantica",
+							"lanzamiento": 2013,
+							"compatibilidad":["Firefox", "Chrome", "Safari", "IE10", "Android 4", "Blackberry 10"]
+						},
+						{
+							"tipo":"front",
+							"nombre": "Pure",
+							"lanzamiento": 2013,
+							"compatibilidad":["ultimas versiones de Firefox", "Chrome", "Safari", "IE7 +", "iOS 6.x", "7.x","Android 4.x"]
+						},
+						{
+							"tipo":"front",
+							"nombre": "Ulkit",
+							"lanzamiento": 2013,
+							"compatibilidad":["Chrome", "Firefox", "Safari", "IE9 +"]
+						},
+					
+						{
+							"tipo":"back",
+							"nombre": "laravel",
+							"lanzamiento": 2013,
+							"compatibilidad":"php"
+						},
+						{
+							"tipo":"back",
+							"nombre": "Ruby on Rails",
+							"lanzamiento": 2015,
+							"compatibilidad":"Ruby"
+						},
+						{
+							"tipo":"back",
+							"nombre": "Spring",
+							"lanzamiento": 2015,
+							"compatibilidad":"Java"
+						},
+						{
+							"tipo":"back",
+							"nombre": "Express",
+							"lanzamiento": 2015,
+							"compatibilidad":"Node.js"
+						}
+					],
+          
+           "profile": {
+                        "name": "typicode"
+           }
+}
+		
